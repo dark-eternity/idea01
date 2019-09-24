@@ -24,4 +24,5 @@ public class Commodity {
         this.birthday = birthday;
         this.describes = describes;
     }
+
 }
